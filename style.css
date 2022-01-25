@@ -1,0 +1,18 @@
+*{
+    margin:10px auto;
+    padding:10px;
+
+}
+.navbar{
+    margin-top:-30px;
+    background-color: darkslategrey;
+    width:100%;
+    color:white;
+}
+body{
+    background-image: linear-gradient(to right top, #000102, #001b31, #002e5e, #003e8e, #004bbc, #364ecf, #594ee0, #7a4cef, #a241e5, #c133da, #db21cc, #f005bd);
+}
+.content{
+    display:flex;
+    flex-flow:row wrap;
+}
